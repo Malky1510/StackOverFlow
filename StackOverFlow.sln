@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow.Data", "StackOverflow.Data\StackOverflow.Data.csproj", "{BA369999-7877-4987-81EB-6631549286E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow.Web", "StackOverflow.Web\StackOverflow.Web.csproj", "{2F02C1CD-F2A2-460E-BBD5-4798011F613C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA369999-7877-4987-81EB-6631549286E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA369999-7877-4987-81EB-6631549286E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA369999-7877-4987-81EB-6631549286E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA369999-7877-4987-81EB-6631549286E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F02C1CD-F2A2-460E-BBD5-4798011F613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F02C1CD-F2A2-460E-BBD5-4798011F613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F02C1CD-F2A2-460E-BBD5-4798011F613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F02C1CD-F2A2-460E-BBD5-4798011F613C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC265F5-0BE2-4713-9F05-E09E98FBA4C7}
+	EndGlobalSection
+EndGlobal
